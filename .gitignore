@@ -1,4 +1,4 @@
-./bad_apple_chars/*.txt
-./bad_apple_imgs/*.png
-./*.zip
-./failed.log
+bad_apple_chars/
+bad_apple_imgs/
+*.zip
+failed.log

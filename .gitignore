@@ -1,0 +1,4 @@
+./bad_apple_chars/*.txt
+./bad_apple_imgs/*.png
+./*.zip
+./failed.log

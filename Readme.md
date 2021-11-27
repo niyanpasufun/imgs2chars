@@ -2,7 +2,7 @@
 
 1. run main.py: extract every frame from a video
 
-2. run img2chars.py: map pictures to a chars txt file
+2. run img2chars.py: map pictures to chars txt file
 
 3. run play_animate.py: play the chars-animate
 

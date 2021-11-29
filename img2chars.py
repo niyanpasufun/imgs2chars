@@ -15,7 +15,7 @@ def rgb2char(r, g, b):
     # section width of every char
     unit = (256.0 + 1) / length
 
-    # map gray to index fo 'char_string'
+    # map gray to index of 'char_string'
     idx = int(gray / unit)
     return char_string[idx]
 
@@ -34,7 +34,7 @@ def img_scale(scale, img_path):
 def img2chars(img, to_path):
     txt = ''
     height, width, mode = img.shape
-    # get a tuple inside pixel value, and map a pixel to a char
+    # get a tuple with pixel value, and map every pixel to one of chars
     for i in range(height):
         line = ''
         for j in range(width):

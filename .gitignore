@@ -1,4 +1,5 @@
-bad_apple_chars/
-bad_apple_imgs/
+bad_apple_chars
+bad_apple_imgs
 *.zip
 failed.log
+.DS_Store
